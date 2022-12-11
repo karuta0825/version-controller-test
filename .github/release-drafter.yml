@@ -16,6 +16,7 @@ categories:
 change-title-escapes: '\<*_&'
 exclude-labels:
   - 'exclude from changelog'
+publish: true  
 template: |
   ## Changes
   $CHANGES
